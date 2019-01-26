@@ -5,7 +5,8 @@
         [
           "env",
           {
-            "useBuiltIns": false
+            "useBuiltIns": false,
+            "modules": "commonjs"
           }
         ]
       ]
