@@ -1,8 +1,8 @@
 {
   "name": "custom-logging",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A custom-styled console logger",
-  "main": "lib/index.js",
+  "main": "lib/Logger.js",
   "scripts": {
     "clean": "rimraf lib dist es",
     "build": "npm run build:commonjs && npm run build:es",
