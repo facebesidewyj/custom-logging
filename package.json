@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "custom-logging",
   "version": "0.0.1",
   "description": "A custom-styled console logger",
   "main": "lib/index.js",
